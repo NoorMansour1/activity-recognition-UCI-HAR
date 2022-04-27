@@ -1,2 +1,2 @@
 # activity-recognition-UCI-HAR
-Simple activity recognition classification of the UCI-HAR dataset with K-Nearest-Neighbor and Dynamic Time Warping. 
+This is a simple activity classification project on the [UCI HAR activity recognition data set](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). After an exploratory data analysis, the K-Nearest-Neighbours classifier is used with Dynamic Time Warping (DTW) from the [Python tutorial on DTW and KNN classification](https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb).
